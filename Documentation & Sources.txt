@@ -1,0 +1,5 @@
+Face detection and tracking with Dji Tello drone :
+https://github.com/juanmapf97/Tello-Face-Recognition
+
+AUTONOMOUS DRONE DODGES OBSTACLES WITHOUT GPS
+https://hackaday.com/2021/11/03/autonomous-drone-dodges-obstacles-without-gps/
